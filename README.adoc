@@ -1,0 +1,4 @@
+= INTESTPTION - Test your tests with PiTest
+
+Companion project for the following presentation: +
+http://slaout.linux62.org/intestption/
